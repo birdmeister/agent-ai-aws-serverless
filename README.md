@@ -1,4 +1,4 @@
-# agent-ai-aws-serverless
+# Agent.ai AWS Serverless action
 Sample code for using an AWS serverless function on Agent.ai
 
 Overall flow:
